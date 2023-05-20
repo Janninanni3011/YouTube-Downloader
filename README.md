@@ -25,3 +25,5 @@ Tutorial:
   
 So it should look something like this (MP4, MP3 and Shitty Tiddy Folders are created automatically):
 ![grafik](https://github.com/Janninanni3011/YouTube-Downloader/assets/107206171/46cd10a1-70f1-483b-b62c-428252c8cae1)
+
+Well Done :D
