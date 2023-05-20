@@ -8,7 +8,7 @@ My first repository :)
 Tutorial:
 1. Install the Firefox addon https://github.com/darktrojan/openwith.
 2. Put the YT.bat into "C:\Users\\%USERNAME%\Videos\YT Downloader" and download yt-dlp.exe (https://github.com/yt-dlp/yt-dlp/releases) and put it there too.
-3. Open Firefox and configure the Addon like this:
+3. Open Firefox and after you have setup the addon correctly configure it like this:
 
    ![grafik](https://github.com/Janninanni3011/YouTube-Downloader/assets/107206171/aec8bfa0-9a8c-42a7-b6dc-b0eff104a58a)
 
