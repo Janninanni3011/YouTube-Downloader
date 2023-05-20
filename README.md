@@ -1,2 +1,4 @@
 # YouTube-Downloader
-A .bat Youtube downloader
+
+You need the Firefox addon https://github.com/darktrojan/openwith to make this work
+
